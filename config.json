@@ -1,5 +1,5 @@
 {
-  "status": true,
+  "status": false,
   "message": "Service is currently active",
   "cookie_url": "https://raw.githubusercontent.com/MR-RAHAD/npm-c/refs/heads/main/cookie.txt"
 }
