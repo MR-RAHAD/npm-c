@@ -1,0 +1,3 @@
+BOT_STATUS: ENABLED
+VERSION: 1.0.0
+MESSAGE: All systems operational.
